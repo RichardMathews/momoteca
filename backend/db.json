@@ -1,0 +1,28 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "Testando api",
+      "autoria": "Dev",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 2,
+      "conteudo": "Testando api modelo2",
+      "autoria": "Dev",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 3,
+      "conteudo": "Testando api modelo3",
+      "autoria": "Dev",
+      "modelo": "modelo3"
+    },
+    {
+      "conteudo": "testando editar",
+      "autoria": "Dev",
+      "modelo": "modelo2",
+      "id": 4
+    }
+  ]
+}
